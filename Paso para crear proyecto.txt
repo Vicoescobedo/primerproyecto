@@ -1,0 +1,12 @@
+Proyecto con Django - solo python
+
+Crear carpeta > cmd (posicionarse en carpeta)
+intalar pip "pip install virtualenv" (creando ambiente virtual)
+cmd>"virtualenv env" (se crea carpeta de ambiente virtual)
+Activar ambiente virtual > cmd > cd env > cd Scripts > activate
+Activar AV en MAC > cmd > cd Desktop/primerproyecto > virtualenv env
+> source env/bin/activate
+
+crear en visual afuera de la carpeta env un archivo (.gitignore)
+buscar en google "gitignore python" y pegar ese codigo dentro del archivo
+.gitignore
