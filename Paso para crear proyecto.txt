@@ -10,3 +10,13 @@ Activar AV en MAC > cmd > cd Desktop/primerproyecto > virtualenv env
 crear en visual afuera de la carpeta env un archivo (.gitignore)
 buscar en google "gitignore python" y pegar ese codigo dentro del archivo
 .gitignore
+crear archivo requirements.txt afuera de env
+publicar proyecto en github en "control de codigo de fuente"
+
+instalar django(revisar en google django pypi, cual es la versión actual) en carpeta primerproyecto con el ambiente virtual activado
+> pip install -r requirements.txt
+
+Comenzar proyecto en carpeta primerproyecto y con AV activado > django-admin startproject core .
+en github(master)>crear rama(damos nombre a la rama)
+
+Crear base de datos > python manage.py runserver
